@@ -30,8 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: "Type-on-Strap"
-#remote_theme: "sylhare/Type-on-Strap"
+#theme: "Type-on-Strap"
+remote_theme: "sylhare/Type-on-Strap"
 plugins:
   - jekyll-feed
 
