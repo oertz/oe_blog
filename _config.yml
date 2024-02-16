@@ -30,14 +30,31 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: "Type-on-Strap"
-remote_theme: "sylhare/Type-on-Strap"
+theme: "Type-on-Strap"
+#remote_theme: "sylhare/Type-on-Strap"
 plugins:
   - jekyll-feed
 
-header_text: TESTING  # Change Blog header text
-excerpt: true    # Or "truncate" (first 250 characters), "false" to disable
+# THEME-SPECIFIC CONFIGURATION
+title: " "                                    # site's title
+description: "A website with blog posts and pages"      # used by search engines
+avatar: assets/img/modouces.png                         # Empty for no avatar in navbar
+favicon: assets/favicon.ico                             # Icon displayed in the tab
+
+# Header and footer text
+header_text: Association Mobilité Douce Chablais  # Change Blog header text
+header_feature_image: assets/img/header/walk-white-shoes.jpeg
+header_feature_image_responsive: true
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+
+
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+
+# PAGINATION
 paginate: 5
 paginate_path: "/blog/page:num"
 
