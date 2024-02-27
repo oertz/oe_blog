@@ -7,14 +7,14 @@ permalink: /contact/
 <div id="mc_embed_shell">
   <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 500px; margin:auto; border: 3px solid #73AD21; padding: 5px;}
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 500px; margin:auto; border: 3px solid #aaaaaa; padding: 5px;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
   </style>
   <div id="mc_embed_signup">
       <form action="https://mobilitedoucechablais.us9.list-manage.com/subscribe/post?u=d39326d816e89051053de172f&amp;id=115d5dd0ef&amp;f_id=00bfcde0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-          <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
-              <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+          <div id="mc_embed_signup_scroll"><h2>S'abonner à l'infolettre</h2>
+              <div class="indicates-required"><span class="asterisk">*</span> requis</div>
               <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div>
           <div id="mce-responses" class="clear foot">
               <div class="response" id="mce-error-response" style="display: none;"></div>
@@ -26,7 +26,7 @@ permalink: /contact/
       </div>
           <div class="optionalParent">
               <div class="clear foot">
-                  <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                  <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="S'abonner">
               </div>
           </div>
       </div>
