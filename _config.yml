@@ -38,7 +38,7 @@ plugins:
 # THEME-SPECIFIC CONFIGURATION
 title: " "                                    # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/logo-color-amdc.svg                         # Empty for no avatar in navbar
+avatar: assets/img/amdc.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
