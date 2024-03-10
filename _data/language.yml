@@ -19,7 +19,7 @@ str_dark: 'Affichage sombre'
 str_light: 'Affichage clair'
 
 # Date format
-# str_date_format: '%d/%m/%Y'
+str_date_format: '%d/%m/%Y'
 
 # Localization settings
-cusdis_lang: fr # zh-cn, es, tr, pt-BR
+cusdis_lang: # zh-cn, es, tr, pt-BR
