@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: A propos
+color: rgb(80,140,22)
+permalink: /apropos/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
