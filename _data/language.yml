@@ -1,5 +1,5 @@
 # Date format
-str_date_format: '%d/%m/%Y'
+# str_date_format: '%d/%m/%Y' doesn't work
 
 # Localization strings
 str_follow_on: "Suivre avec"
@@ -17,7 +17,7 @@ str_javascript_required_disqus: "Activez JavaScript pour voir les commentaires."
 str_no_result_found: "Aucun résultat trouvé"
 str_cookie_approve: "Approuver"
 str_cookie_disclaimer: "Nous souhaitons utiliser des cookies et des scripts de tiers pour améliorer la fonctionnalité de ce site web."
-str_months: [JANVIER,FÉVRIER,MARS,AVRIL,MAI,JUIN,JUILLET,AOÛT,SEPTEMBRE,OCTOBRE,NOVEMBRE,DÉCEMBRE]
+str_months: # [JANVIER,FÉVRIER,MARS,AVRIL,MAI,JUIN,JUILLET,AOÛT,SEPTEMBRE,OCTOBRE,NOVEMBRE,DÉCEMBRE] doesn't work
 str_dark: 'Affichage sombre'
 str_light: 'Affichage clair'
 
