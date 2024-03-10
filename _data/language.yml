@@ -20,3 +20,6 @@ str_light: 'Affichage clair'
 
 # Localization settings
 cusdis_lang: fr # zh-cn, es, tr, pt-BR
+
+# Date format
+str_date_format: '%d.%m.%Y'
