@@ -18,8 +18,5 @@ str_months: [JANVIER,FÉVRIER,MARS,AVRIL,MAI,JUIN,JUILLET,AOÛT,SEPTEMBRE,OCTOBR
 str_dark: 'Affichage sombre'
 str_light: 'Affichage clair'
 
-# Date format
-str_date_format: '%d/%m/%Y'
-
 # Localization settings
 cusdis_lang: # zh-cn, es, tr, pt-BR
