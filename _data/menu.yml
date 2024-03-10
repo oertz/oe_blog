@@ -1,11 +1,11 @@
 # To add links to the navigation bar.
 - example:
-  title: Example
-  url: https://example.com
-  hide: true
-  position: 2
+  title: Contact
+  url: https://us9.list-manage.com/contact-form?u=d39326d816e89051053de172f&form_id=39d0093faef02381c9d7c06af42f49c9
+  hide: false
+  position: 1
 - type-on-strap:
   title: "Type on Strap"
   url: https://github.com/sylhare/Type-on-Strap
   hide: true  
-  position: 1
+  position: 2

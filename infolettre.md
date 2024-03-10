@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: S'abonner
+permalink: /infolettre/
 ---
 
 <div id="mc_embed_shell">
