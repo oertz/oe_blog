@@ -14,7 +14,7 @@ str_javascript_required_disqus: "Activez JavaScript pour voir les commentaires."
 str_no_result_found: "Aucun résultat trouvé"
 str_cookie_approve: "Approuver"
 str_cookie_disclaimer: "Nous souhaitons utiliser des cookies et des scripts de tiers pour améliorer la fonctionnalité de ce site web."
-str_months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
+str_months: [janvier,fevrier,mars,avril,mai,juin,juillet,aout,septembre,octobre,novembre,decembre]
 str_dark: 'Affichage sombre'
 str_light: 'Affichage clair'
 
