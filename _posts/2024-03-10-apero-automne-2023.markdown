@@ -2,7 +2,7 @@
 layout: post
 title:  "Invitation à l'Apéro de l'AMDC! 16 septembre 2023 à Margencel"
 feature-img: "assets/img/pexels/pexels-cottonbro-studio-4873697.jpg"
-date:   2024-03-10 11:56:20 +0100
+date:   2024-03-11 11:56:20 +0100
 ---
 **Le comité de l'AMDC vous invite à un apéro de fin d'été, le samedi 16 septembre à 11h à la salle des fêtes de Margencel.**
 
