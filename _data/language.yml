@@ -1,3 +1,6 @@
+# Date format
+str_date_format: '%d/%m/%Y'
+
 # Localization strings
 str_follow_on: "Suivre avec"
 str_rss_follow: "Suivre avec flux RSS"
