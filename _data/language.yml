@@ -1,22 +1,22 @@
 # Localization strings
-str_follow_on: "Follow on"
-str_rss_follow: "Follow RSS feed"
-str_share_on: "Share on"
-str_add_to: "Add to"
+str_follow_on: "Suivre avec"
+str_rss_follow: "Suivre avec flux RSS"
+str_share_on: "Partager avec"
+str_add_to: "Ajouter à"
 str_email: "Email"
 str_tweet: "Tweet"
 str_pin_it: "Pin it"
-str_next_post: "Next post"
-str_previous_post: "Previous post"
-str_next_page: "Next"
-str_previous_page: "Prev"
-str_javascript_required_disqus: "Please enable JavaScript to view comments."
-str_no_result_found: "No result found"
-str_cookie_approve: "Approve"
-str_cookie_disclaimer: "We would like to use third party cookies and scripts to improve the functionality of this website."
+str_next_post: "Suivant"
+str_previous_post: "Précédent"
+str_next_page: "Page suivante"
+str_previous_page: "Page précédente"
+str_javascript_required_disqus: "Activez JavaScript pour voir les commentaires."
+str_no_result_found: "Aucun résultat trouvé"
+str_cookie_approve: "Approuver"
+str_cookie_disclaimer: "Nous souhaitons utiliser des cookies et des scripts de tiers pour améliorer la fonctionnalité de ce site web."
 str_months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
-str_dark: 'Dark'
-str_light: 'Light'
+str_dark: 'Affichage sombre'
+str_light: 'Affichage clair'
 
 # Localization settings
-cusdis_lang: # zh-cn, es, tr, pt-BR
+cusdis_lang: fr # zh-cn, es, tr, pt-BR
