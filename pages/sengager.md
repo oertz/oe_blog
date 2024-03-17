@@ -1,7 +1,6 @@
 ---
 layout: page
 title: S'engager
-color: rgb(80,140,22)
 permalink: /sengager/
 ---
 
